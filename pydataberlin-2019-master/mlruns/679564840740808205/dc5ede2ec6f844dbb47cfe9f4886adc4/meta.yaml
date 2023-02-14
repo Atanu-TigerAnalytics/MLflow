@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679564840740808205/dc5ede2ec6f844dbb47cfe9f4886adc4/artifacts
+end_time: 1676395641621
+entry_point_name: ''
+experiment_id: '679564840740808205'
+lifecycle_stage: active
+run_id: dc5ede2ec6f844dbb47cfe9f4886adc4
+run_name: efficient-skunk-934
+run_uuid: dc5ede2ec6f844dbb47cfe9f4886adc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676395637929
+status: 3
+tags: []
+user_id: atanu.mandal

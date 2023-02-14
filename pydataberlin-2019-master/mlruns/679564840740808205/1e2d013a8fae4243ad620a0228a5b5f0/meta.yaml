@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/679564840740808205/1e2d013a8fae4243ad620a0228a5b5f0/artifacts
+end_time: 1676395635629
+entry_point_name: ''
+experiment_id: '679564840740808205'
+lifecycle_stage: active
+run_id: 1e2d013a8fae4243ad620a0228a5b5f0
+run_name: adorable-snake-945
+run_uuid: 1e2d013a8fae4243ad620a0228a5b5f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676395631944
+status: 3
+tags: []
+user_id: atanu.mandal
